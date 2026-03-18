@@ -1,4 +1,4 @@
-[id8_advisors_landing (1).html](https://github.com/user-attachments/files/26094877/id8_advisors_landing.1.html)[Uploading id8_a<!DOCTYPE html>
+[id8_advisors_landing (1).html](https://github.com/user-attachments/files/26094877/id8_advisors_landing.1.html)
 <html lang="en">
 <head>
 <meta charset="UTF-8">
